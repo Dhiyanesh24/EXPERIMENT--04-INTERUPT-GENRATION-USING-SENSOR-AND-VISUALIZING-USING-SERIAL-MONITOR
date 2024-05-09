@@ -1,7 +1,3 @@
-###  DATE: 5/3/24
-###  NAME: Dhiyaneshwar P
-###  ROLL NO : 212222110009
-###  DEPARTMENT: CSE(IoT)
 
 
 # EXPERIMENT--04-INTERUPT-GENRATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR
@@ -115,7 +111,10 @@ The diagram below shows how the GPIO pins are connected to the 16 interrupt line
 
 
   
-
+```
+Name : Dhiyaneshwar P
+Reg.no : 212222110009
+```
 ## STM 32 CUBE PROGRAM :
 ```
 #include "main.h"
